@@ -1,8 +1,5 @@
-/Circulo.class
-/FiguraGeometrica.class
-/Rectangulo.class
-/Triangulo.class
-/Circulo_DGM.class
-/FiguraGeometrica_DGM.class
-/Rectangulo_DGM.class
-/Triangulo_DGM.class
+/CirculoTest.class
+/Circulo_DGMTest.class
+/CirculoTestArea.class
+/CirculoTestPerimetro.class
+/CirculoTestSuite.class
